@@ -1,0 +1,79 @@
+.content{
+    background-color: black;
+    height: 700px;
+    padding-top: 50px;
+}
+.text{
+    padding-left: 390px;
+    color: white;
+}
+
+#btn{
+    text-align: left;
+    color: white;
+    background-color: black;
+    border-color: #404040;
+    width: 500px;
+    margin-left: 390px;
+    margin-top: 20px;
+    border-radius: 15px;
+}
+.Plus{
+    color: #ff99ff;
+    margin-right: 5px;
+    height: 19px;
+    width: 19px;
+    margin-bottom: 4px;
+}
+.row{
+    padding-top: 20px;
+}
+.tab-list > span.active{
+    background-color: #404040;
+}
+.tab-list > span{
+    border: 1px solid #404040;
+    color: white;
+    padding: 5px 8px;
+    border-radius: 10px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.tab-list{
+    transition: transform .2s;  
+
+}
+.tab-list:hover{
+    transform: scale(1);
+}
+.my-5.tab-list{
+    margin-left: 390px;
+}
+#card{
+    background-color: black;
+}
+#list-group{
+    background-color: #404040;
+    color: white;
+    border-radius: 15px;
+    border: 1px solid #404040;
+    margin-top: 10px;
+}
+.btn-danger{
+    margin-left: 6px;
+}
+.modal-content{
+    background-color: #404040;
+    color: #404040;
+    border-radius: 10px;
+}
+.done{
+    color: #ff99ff;
+    height: 19px;
+    width: 19px;
+}
+.btn.btn-success{
+    background-color: #cc00cc;
+    border-color: #cc00cc;
+}
+

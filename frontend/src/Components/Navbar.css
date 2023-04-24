@@ -1,0 +1,41 @@
+.Navbar{
+    height: 50px;
+    width: 100%;
+    background-color: #202020;
+}
+.NavItem{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    padding-top: 12px;
+    color: white;
+}
+.Todo{
+    text-decoration: none;
+    color: White;
+}
+
+.Todo:hover{
+    color: #ff99ff;
+}
+.About{
+    position: absolute;
+    right: 170px;
+    color: white;
+    text-decoration: none;
+}
+.Contact{
+    position: absolute;
+    right: 30px;
+    color: white;
+    text-decoration: none;
+}
+.Contact:hover{
+    color: #ff99ff;
+}
+.About:hover{
+    color: #ff99ff;
+}
+
+
+
